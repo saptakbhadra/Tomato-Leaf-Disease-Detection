@@ -4,6 +4,11 @@
 
 __Deep Learning Model to predict Tomato Leaf Disease__
 
+>Instructions to run
+>1. Download the files of this repository
+>2. Go to the respective folder where the repostitory has been downloaded ```pip install requirements.txt```
+>3. Run on Jupyter Notebook.
+
 #### Model Accuracy: 0.8485
 ![](https://www.ksuhortnewsletter.org/uploads/1/7/0/4/17044246/4915739_orig.png)
 
