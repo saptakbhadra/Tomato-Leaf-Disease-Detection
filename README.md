@@ -1,8 +1,10 @@
-# Tomato-Leaf-Disease-Detection
+# Tomato-Leaf-Disease-Detection [Kaggle]
+[Link to Kaggle Page](https://www.kaggle.com/noulam/tomato)
 ## *Using Inception V3 Model and transfer Learning approach*
-Deep Learning Model to predict Tomato Leaf Disease
 
+__Deep Learning Model to predict Tomato Leaf Disease__
 
+#### Model Accuracy: 0.8485
 
 
 
